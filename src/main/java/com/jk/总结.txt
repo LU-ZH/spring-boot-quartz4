@@ -1,0 +1,10 @@
+
+1.新建工程
+
+2.新建QuartzConfig配置类
+
+3.编写job
+
+4.编写Task：jobDetail和trigger
+
+5.编写启动类
